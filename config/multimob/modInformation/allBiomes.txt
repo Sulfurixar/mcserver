@@ -60,10 +60,10 @@ minecraft:mutated_savanna_rock
 minecraft:mutated_mesa
 minecraft:mutated_mesa_rock
 minecraft:mutated_mesa_clear_rock
+jeid:error_biome
 thaumcraft:magical_forest
 thaumcraft:eerie
 thaumcraft:eldritch
-mocreatures:wyvernbiome
 iceandfire:glacier
 netherex:ruthless_sands
 netherex:fungi_forest
