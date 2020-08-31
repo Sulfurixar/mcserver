@@ -33,6 +33,13 @@ extrautils2:xu.zoomerang
 extrautils2:xu.burnerang
 extrautils2:xu.bladerang
 extrautils2:xu.boomereaperang
+ebwizardry:magic_sword
+ebwizardry:magic_bow
+ebwizardry:flaming_weapon
+ebwizardry:freezing_weapon
+ebwizardry:magic_protection
+ebwizardry:frost_protection
+ebwizardry:shock_protection
 bewitchment:magic_protection
 bibliocraft:bibliocraft.deathcompassench
 bibliocraft:bibliocraft.readingench
