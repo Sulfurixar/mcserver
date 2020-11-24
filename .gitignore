@@ -12,6 +12,7 @@ usercache.json
 usernamecache.json
 whitelist.json
 world/**
+playerdata/**
 
 #Files too big
 mods/TheBetween*
